@@ -1,0 +1,357 @@
+
+Comunas con extrema necesidad de instrumentación médica.
+
+Calama
+Maria Elena
+Mejillones
+Arica
+Maullin
+San Juan de la Costa
+Punta Arenas
+Alhue
+Cerrillos
+Cerro Navia
+Conchali
+El Bosque
+Huechuraba
+Independencia
+La Florida
+La Granja
+La Pintana
+Lo Espejo
+Lo Prado
+Macul
+Pedro Aguirre Cerda
+Penalolen
+Pirque
+Pudahuel
+Puente Alto
+Quilicura
+Quinta Normal
+Recoleta
+Renca
+San Joaquin
+San Jose de Maipo
+San Miguel
+San Ramon
+Pica
+Pozo Almonte
+
+Comunas con alta necesidad de instrumentación médica.
+
+Ollague
+Sierra Gorda
+General Lagos
+Lago Verde
+OHiggins
+Tortel
+Palena
+Antartica
+Cabo de Hornos
+Laguna Blanca
+Natales
+Porvenir
+Primavera
+Rio Verde
+San Gregorio
+Timaukel
+Torres del Paine
+Camina
+Colchane
+Huara
+
+Comunas con media necesidad de instrumentación médica.
+
+Taltal
+Tocopilla
+Cunco
+Curacautin
+Curarrehue
+Freire
+Gorbea
+Loncoche
+Lonquimay
+Lumaco
+Melipeuco
+Nueva Imperial
+Padre Las Casas
+Pitrufquen
+Pucon
+Puren
+Teodoro Schmidt
+Tolten
+Traiguen
+Victoria
+Vilcun
+Villarrica
+Alto del Carmen
+Caldera
+Chanaral
+Aysen
+Chile Chico
+Cisnes
+Cochrane
+Coyhaique
+Guaitecas
+Rio Ibanez
+Antuco
+Cabrero
+Contulmo
+Laja
+Lebu
+Los Angeles
+Mulchen
+Nacimiento
+Quilaco
+Quilleco
+San Rosendo
+Santa Barbara
+Tirua
+Tucapel
+Andacollo
+Canela
+Combarbala
+Illapel
+La Serena
+Los Vilos
+Monte Patria
+Paiguano
+Rio Hurtado
+Salamanca
+Vicuna
+Ancud
+Castro
+Chaiten
+Cochamo
+Curaco de Velez
+Dalcahue
+Futaleufu
+Puerto Varas
+Puyehue
+Quellon
+Quemchi
+Quinchao
+San Pablo
+Corral
+Futrono
+Lago Ranco
+Lanco
+La Union
+Los Lagos
+Mafil
+Mariquina
+Paillaco
+Panguipulli
+Rio Bueno
+Valdivia
+Cauquenes
+Chanco
+Colbun
+Constitucion
+Curepto
+Empedrado
+Hualane
+Linares
+Molina
+Parral
+Pelarco
+Pelluhue
+Pencahue
+Retiro
+Rio Claro
+Sagrada Familia
+Vichuquen
+Villa Alegre
+Yerbas Buenas
+Cobquecura
+Coelemu
+El Carmen
+Ninhue
+Niquen
+Pinto
+Portezuelo
+San Carlos
+San Fabian
+San Ignacio
+Treguaco
+Yungay
+Chepica
+Chimbarongo
+La Estrella
+Litueche
+Lolol
+Marchihue
+Mostazal
+Nancagua
+Navidad
+Palmilla
+Paredones
+Peralillo
+Pichilemu
+Placilla
+Pumanque
+Quinta de Tilcoco
+Santa Cruz
+Algarrobo
+Cartagena
+Isla de Pascua
+Juan Fernandez
+La Cruz
+Olmue
+Panquehue
+Petorca
+Puchuncavi
+Rinconada
+San Antonio
+San Esteban
+Santo Domingo
+Zapallar
+
+Comunas con baja necesidad de instrumentación médica.
+
+San Pedro de Atacama
+Angol
+Carahue
+Cholchol
+Collipulli
+Ercilla
+Galvarino
+Lautaro
+Los Sauces
+Perquenco
+Renaico
+Saavedra
+Temuco
+Camarones
+Putre
+Copiapo
+Diego de Almagro
+Freirina
+Huasco
+Tierra Amarilla
+Vallenar
+Alto Biobio
+Arauco
+Canete
+Chiguayante
+Concepcion
+Coronel
+Curanilahue
+Florida
+Hualpen
+Hualqui
+Los Alamos
+Lota
+Negrete
+Penco
+San Pedro de la Paz
+Santa Juana
+Talcahuano
+Tome
+Yumbel
+Coquimbo
+La Higuera
+Ovalle
+Punitaqui
+Calbuco
+Chonchi
+Fresia
+Frutillar
+Hualaihue
+Llanquihue
+Los Muermos
+Osorno
+Puerto Montt
+Puerto Octay
+Puqueldon
+Purranque
+Queilen
+Rio Negro
+Curico
+Licanten
+Longavi
+Maule
+Rauco
+Romeral
+San Clemente
+San Javier
+San Rafael
+Talca
+Teno
+Buin
+Calera de Tango
+Colina
+Curacavi
+El Monte
+Estacion Central
+Isla de Maipo
+La Cisterna
+Lampa
+La Reina
+Las Condes
+Lo Barnechea
+Maipu
+Maria Pinto
+Melipilla
+Nunoa
+Padre Hurtado
+Paine
+Penaflor
+Providencia
+San Bernardo
+San Pedro
+Santiago
+Talagante
+Tiltil
+Vitacura
+Bulnes
+Chillan
+Chillan Viejo
+Coihueco
+Pemuco
+Quillon
+Quirihue
+Ranquil
+San Nicolas
+Codegua
+Coinco
+Coltauco
+Donihue
+Graneros
+Las Cabras
+Machali
+Malloa
+Olivar
+Peumo
+Pichidegua
+Rancagua
+Rengo
+Requinoa
+San Fernando
+San Vicente
+Alto Hospicio
+Iquique
+Cabildo
+Calera
+Calle Larga
+Casablanca
+Catemu
+Concon
+El Quisco
+El Tabo
+Hijuelas
+La Ligua
+Limache
+Llaillay
+Los Andes
+Nogales
+Papudo
+Putaendo
+Quillota
+Quilpue
+Quintero
+San Felipe
+Santa Maria
+Valparaiso
+Villa Alemana
+Vina del Mar
